@@ -1,0 +1,13 @@
+C:\Users\Esetb\source\repos\HomeConstructionHW\HomeConstructionHW\obj\Debug\netcoreapp3.1\HomeConstructionHW.csprojAssemblyReference.cache
+C:\Users\Esetb\source\repos\HomeConstructionHW\HomeConstructionHW\obj\Debug\netcoreapp3.1\HomeConstructionHW.AssemblyInfoInputs.cache
+C:\Users\Esetb\source\repos\HomeConstructionHW\HomeConstructionHW\obj\Debug\netcoreapp3.1\HomeConstructionHW.AssemblyInfo.cs
+C:\Users\Esetb\source\repos\HomeConstructionHW\HomeConstructionHW\obj\Debug\netcoreapp3.1\HomeConstructionHW.csproj.CoreCompileInputs.cache
+C:\Users\Esetb\source\repos\HomeConstructionHW\HomeConstructionHW\bin\Debug\netcoreapp3.1\HomeConstructionHW.exe
+C:\Users\Esetb\source\repos\HomeConstructionHW\HomeConstructionHW\bin\Debug\netcoreapp3.1\HomeConstructionHW.deps.json
+C:\Users\Esetb\source\repos\HomeConstructionHW\HomeConstructionHW\bin\Debug\netcoreapp3.1\HomeConstructionHW.runtimeconfig.json
+C:\Users\Esetb\source\repos\HomeConstructionHW\HomeConstructionHW\bin\Debug\netcoreapp3.1\HomeConstructionHW.runtimeconfig.dev.json
+C:\Users\Esetb\source\repos\HomeConstructionHW\HomeConstructionHW\bin\Debug\netcoreapp3.1\HomeConstructionHW.dll
+C:\Users\Esetb\source\repos\HomeConstructionHW\HomeConstructionHW\bin\Debug\netcoreapp3.1\HomeConstructionHW.pdb
+C:\Users\Esetb\source\repos\HomeConstructionHW\HomeConstructionHW\obj\Debug\netcoreapp3.1\HomeConstructionHW.dll
+C:\Users\Esetb\source\repos\HomeConstructionHW\HomeConstructionHW\obj\Debug\netcoreapp3.1\HomeConstructionHW.pdb
+C:\Users\Esetb\source\repos\HomeConstructionHW\HomeConstructionHW\obj\Debug\netcoreapp3.1\HomeConstructionHW.genruntimeconfig.cache
